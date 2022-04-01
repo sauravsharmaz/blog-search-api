@@ -15,6 +15,7 @@ A list of technologies used within the project:
 wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.17.1-amd64.deb
 sudo dpkg -i elasticsearch-7.17.1-amd64.deb
 sudo rm -r elasticsearch-7.17.1-amd64.deb
+sudo service elasticsearch start
 ```
 Clone Repo & Setup Enviroment 🌿
 ```
