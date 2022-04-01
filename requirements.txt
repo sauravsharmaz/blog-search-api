@@ -1,0 +1,11 @@
+asgiref==3.5.0
+backports.zoneinfo==0.2.1
+certifi==2021.10.8
+Django==3.2
+django-extensions==3.1.5
+django-haystack==3.1.1
+djangorestframework==3.13.1
+elasticsearch==7.17.1
+pytz==2022.1
+sqlparse==0.4.2
+urllib3==1.26.9
