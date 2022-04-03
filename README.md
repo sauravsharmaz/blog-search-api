@@ -7,6 +7,8 @@ A list of technologies used within the project:
 * 🌐[Django REST Framework](https://www.django-rest-framework.org/): Version 3.13.1
 * 🐍[Python](https://www.python.org/): Version 3.8
 * 🐧[Ubuntu](https://ubuntu.com/download/desktop): Version 18.04.6 LTS
+* 🔍[elasticSearch](https://elastic.co/downloads/elasticsearch/): Version 7.17.1
+* 🔥[HayStack](https://pypi.org/project/django-haystack/): Version 3.1.1
 
 ## Installation <img src="https://user-images.githubusercontent.com/52165188/161188962-6e47aecf-dc0f-4631-9d06-04ef64f44e51.gif" height=20 width=20 >
 
